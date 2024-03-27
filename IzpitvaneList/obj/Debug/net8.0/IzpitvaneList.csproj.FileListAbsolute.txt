@@ -1,0 +1,14 @@
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\obj\Debug\net8.0\IzpitvaneList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\obj\Debug\net8.0\IzpitvaneList.AssemblyInfoInputs.cache
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\obj\Debug\net8.0\IzpitvaneList.AssemblyInfo.cs
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\obj\Debug\net8.0\IzpitvaneList.csproj.CoreCompileInputs.cache
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\bin\Debug\net8.0\IzpitvaneList.exe
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\bin\Debug\net8.0\IzpitvaneList.deps.json
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\bin\Debug\net8.0\IzpitvaneList.runtimeconfig.json
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\bin\Debug\net8.0\IzpitvaneList.dll
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\bin\Debug\net8.0\IzpitvaneList.pdb
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\obj\Debug\net8.0\IzpitvaneList.dll
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\obj\Debug\net8.0\refint\IzpitvaneList.dll
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\obj\Debug\net8.0\IzpitvaneList.pdb
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\obj\Debug\net8.0\IzpitvaneList.genruntimeconfig.cache
+C:\Siana 9A\IzpitvaneList\IzpitvaneList\obj\Debug\net8.0\ref\IzpitvaneList.dll
